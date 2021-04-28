@@ -43,15 +43,15 @@ Claire Cheek
 
 ### User profile page
   ![Screen Shot 1](./public/assets/images/giphy.webp?raw=true "")
-  ### Plant profile page
+  ### Plant Profile page
   ![Screen Shot 6](./public/assets/images/screenshot7.png?raw=true "")
-  ### Plant prifile image gallery
+  ### Plant Profile image gallery
   ![Screen Shot 6](./public/assets/images/screenshot8.png?raw=true "")
-  ### Add plant page
+  ### Add Plant page
   ![Screen Shot 2](./public/assets/images/screenshot2.png?raw=true "")
   ### Community page
   ![Screen Shot 3](./public/assets/images/screenshot3.png?raw=true "")
-  ### Add photo page
+  ### Add Photo page
   ![Screen Shot 4](./public/assets/images/screenshot4.png?raw=true "")
   ### Privacy/Invite section of profile
   ![Screen Shot 5](./public/assets/images/screenshot5.png?raw=true "")
